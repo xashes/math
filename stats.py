@@ -1,0 +1,2 @@
+from thinkbayes import Pmf
+
